@@ -1,0 +1,8 @@
+1001,ching,ching123,012-2231010,M,ching123@gmail.com,manager
+0001,joker,joker123,016-1020310,M,joker123@gmail.com,clerk
+0002,nobody,nobody123,018-2301295,M,nobody123@gmail.com,clerk
+0003,maybe,maybe123,019-9523210,F,maybe123@gmail.com,clerk
+0004,lim,lim123,019-3129852,M,lim123@gmail.com,clerk
+0005,phook,phook123,013-4214921,M,phook123@gmail.com,clerk
+0006,tan,tan123,019-2319345,m,tan123@gmail.com,clerk
+0007,girish,girish123,016-2301950,M,girish123@gmail.com,clerk
